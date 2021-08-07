@@ -3,7 +3,7 @@
 Stack:
  - Python, Django
  - TypeScript, React
- - REST, MariaDB, Google Cloud 
+ - REST, MariaDB, GCP 
 
 Featues: 
  - Allow users to submit forms
